@@ -11,17 +11,11 @@
 - **Библиотеки:** Pandas, IMAP, email, dkim, spf, pickle, pyotp, matplotlib.pyplotи и другие
 
 ## Структура проекта
-phishing-detection/
-
-├── script.py # Обработка электронных писем
-
-├── techii.py # Обучение ML-модели
-
-├── model.pkl # Обученная модель
-
-├── dataset.csv/ # Размеченный датасет электронных писем
-
-└── README.md
+- script.py # Обработка электронных писем
+-techii.py # Обучение ML-модели
+-model.pkl # Обученная модель
+-dataset.csv/ # Размеченный датасет электронных писем
+-README.md
 
 ## Результат
 Accuracy	94%
