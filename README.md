@@ -11,10 +11,14 @@
 - **Библиотеки:** Pandas, IMAP, email, dkim, spf, pickle, pyotp, matplotlib.pyplotи и другие
 
 ## Структура проекта
-- script.py # Обработка электронных писем
--techii.py # Обучение ML-модели
--model.pkl # Обученная модель
--dataset.csv/ # Размеченный датасет электронных писем
+- script.py - Обработка электронных писем
+
+-techii.py - Обучение ML-модели
+
+-model.pkl - Обученная модель
+
+-dataset.csv - Размеченный датасет электронных писем
+
 -README.md
 
 ## Результат
