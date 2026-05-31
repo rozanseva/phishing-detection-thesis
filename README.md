@@ -25,13 +25,21 @@
 
 ## Результат
 Accuracy	94%
+
 Precision	92%	
+
 Recall	89%	
+
 F1-score	90.5%
 
 Матрица ошибок:
+
 TP (True Positives): 89
+
 FN (False Negatives): 11
+
 FP (False Positives): 8 (<5% ложных срабатываний)
+
 TN (True Negatives): 192
+
 Модель была реализована на Random Forest (100 деревьев) с использованием NLTK для NLP-анализа текста писем.
